@@ -1,16 +1,21 @@
-### Hi there 👋
+# 👋 Hello World !  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+ 
 
-<!--
-**xfoxolx/xfoxolx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# I'm xfoxolx <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **Machine Learning**
+- 👯 Currently working in **HeNan, China**
+- 🤔 I love **Reading, photography**
+- 💬 Ask me about Deep Learning, Python and my projects
+- 📫 How to reach me: **xfoxol@outlook.com**
+- ⚡ Fun fact: **Music, Movie**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# About My Github
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xfoxolx)](https://github.com/Christmas-Wong/github-readme-stats)
+
+![xfoxolx's GitHub stats](https://github-readme-stats.vercel.app/api?username=xfoxolx&show_icons=true&theme=tokyonight)
+
+#### Thanks for visiting :heart:
+![Visitor Count](https://profile-counter.glitch.me/xfoxlox/count.svg) 
+
+⭐️ From [xfoxol](https://github.com/xfoxol)
