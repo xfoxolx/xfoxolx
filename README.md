@@ -18,4 +18,4 @@
 #### Thanks for visiting :heart:
 ![Visitor Count](https://profile-counter.glitch.me/xfoxlox/count.svg) 
 
-⭐️ From [xfoxol](https://xfoxolx.github.io/)
+⭐️ From [xfoxolx](https://xfoxolx.github.io/)
