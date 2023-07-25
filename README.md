@@ -7,7 +7,7 @@
 - 👯 Currently working in **HeNan, China**
 - 🤔 I love **Reading, photography**
 - 💬 Ask me about Deep Learning, Python and my projects
-- 📫 How to reach me: **xfoxol@outlook.com**
+- 📫 How to reach me: **XfoXolX@outlook.com**
 - ⚡ Fun fact: **Music, Movie**
 
 # About My Github
