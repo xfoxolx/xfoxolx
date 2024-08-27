@@ -2,12 +2,11 @@ name: Generate Snake
 
 on:
   schedule:
-    # 计划任务: 每天运行一次
+    # 定时任务: 每天运行一次
     - cron: "0 0 * * *"
   workflow_dispatch:
-    # 允许手动运行此工作流
+    # 允许手动触发此工作流
   push:
-    # 每次推送时运行
     branches:
       - main
 
@@ -27,8 +26,10 @@ jobs:
             dist/github-snake-dark.svg?palette=github-dark
             dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
-      - name: Upload Artifacts
-        uses: actions/upload-artifact@v2
-        with:
-          name: snake-artifacts
-          path: dist/
+      - name: Commit and Push files
+        run: |
+          git config --local user.name "github-actions"
+          git config --local user.email "actions@github.com"
+          git add dist/
+          git commit -m "Generate snake graph"
+          git push
