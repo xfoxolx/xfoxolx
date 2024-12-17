@@ -1,0 +1,32 @@
+name: Generate Snake Animation
+
+on:
+  # 每天凌晨1点运行
+  schedule:
+    - cron: "0 1 * * *"
+  # 手动触发
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      # 检出代码仓库内容
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      # 生成贪吃蛇动画，并输出到指定文件
+      - name: Generate Snake Animation
+        uses: Platane/snk@v3
+        with:
+          github_user_name: xfoxolx
+          outputs: dist/snake.svg
+
+      # 提交生成的文件到仓库
+      - name: Commit and Push Changes
+        run: |
+          git config --local user.name "GitHub Actions"
+          git config --local user.email "actions@github.com"
+          git add dist/snake.svg
+          git commit -m "Generate snake animation"
+          git push
