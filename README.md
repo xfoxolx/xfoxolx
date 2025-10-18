@@ -12,9 +12,9 @@
 
 ## Skills
 - **Programming Languages 🧰**:  
-[![My Language](https://skillicons.dev/icons?i=js,html,css,py,ts,cpp)]()
+[![My Language](https://skillicons.dev/icons?i=js,html,css,py,ts,cpp,rust)]()
 - **Frameworks & Tools 🧑‍💻**:  
-[![My Language](https://skillicons.dev/icons?i=react,linux,git,github,docker,anaconda,arch,neovim)]()
+[![My Skill](https://skillicons.dev/icons?i=react,linux,git,github,docker,anaconda,arch,neovim)]()
 
 ## Contact Me
 - 📖 Check out my blog: [Blog](https://xfoxolx.github.io)
