@@ -15,14 +15,3 @@
 [![My Language](https://skillicons.dev/icons?i=js,html,css,py,ts,cpp,rust)]()
 - **Frameworks & Tools 🧑‍💻**:  
 [![My Skill](https://skillicons.dev/icons?i=react,linux,git,github,docker,anaconda,arch,neovim)]()
-
-## Contact Me
-- 📖 Check out my blog: [Blog](https://xfoxolx.github.io)
-
-<div style="display:flex; gap:15px; justify-content:center;">
-<img height="137px" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=xfoxolx&count_private=true&show_icons=true&border_radius=20&include_all_commits=true&line_height=21&hide_border=true&bg_color=20212C&text_color=81A1C1&title_color=81A1C1&icon_color=58a6ff"/>
-
-<img height="137px" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xfoxolx&layout=compact&line_height=21&border_radius=20&hide_border=true&bg_color=20212C&text_color=81A1C1&title_color=81A1C1&icon_color=58a6ff"/>
-</div>
-
-
